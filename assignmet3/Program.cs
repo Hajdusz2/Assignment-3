@@ -1,4 +1,10 @@
-﻿using System;
+﻿/**
+* @author RRiber
+*
+* @date - 23.10.2019. 
+*/
+
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
